@@ -51,7 +51,13 @@ This command will generate a redistributable version of your application.
 
 This demo application serves as a **basic chat logger**, which tracks users entering and leaving the room, as well as messages sent by users. It logs the username of the sender along with the message content in real time. 
 
-To ensure you capture all user interactions when starting the extension while already in a room, make sure to reload the room to fetch the list of all current users.
+<details>
+   <summary>View a screenshot of the Demo Application</summary>
+   
+![Demo App Screenshot](https://github.com/JTD420/G-Starter-Kit-V2/blob/main/frontend/src/assets/images/Screenshot.png?raw=true)
+</details>
+
+*To ensure you capture all user interactions when starting the extension while already in a room, make sure to reload the room to fetch the list of all current users.
 
 ### User Interaction Handling
 
