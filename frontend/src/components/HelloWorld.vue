@@ -40,7 +40,7 @@ onUnmounted(() => {
         <img :src="logo" class="h-6" alt="GoEarth Starter Kit" />
         <div class="divide-y divide-gray-300/50">
           <div class="space-y-6 py-8 text-base leading-7 text-gray-600">
-            <p>Welcome to the G-Earth Extensions Starter Kit! This demo showcases how to use GoEarth, Wails V2, Vue, and TailwindCSS to build custom extensions with a full GUI.</p>
+            <p>Welcome to the G-Earth Extension   Starter Kit! This demo showcases how to use GoEarth, Wails V2, Vue, and TailwindCSS to build custom extensions with a full GUI.</p>
             <ul class="space-y-4">
               <li class="flex items-center">
                 <svg class="h-6 w-6 flex-none fill-sky-100 stroke-sky-500 stroke-2" stroke-linecap="round" stroke-linejoin="round">
